@@ -1,0 +1,4 @@
+rootProject.name = "mqtt.androidx"
+include ':paho_mqtt_androidx_example'
+include ':org_eclipse_paho_androidx_sample'
+include ':org_eclipse_paho_androidx_service'
